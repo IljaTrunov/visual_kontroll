@@ -1,8 +1,4 @@
 from random import *
-y=0
-for i in range(1, 11, 1):
-    y = -0.5*i + i
-    print("x= ",i,". y=",y)
 
 
 #5
